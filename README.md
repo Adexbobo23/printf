@@ -1,5 +1,5 @@
 ﻿
-## printf()
+## _printf()
 
 The printf project is a collaboration between Adeoluwa Oliyide and Damilola Akinyele, students of Software Engineering at ALX. 
 
@@ -7,7 +7,7 @@ This function named "_printf()" imitates the actual "printf()" command located i
 
 _printf() is a function that performs formatted output conversion and print data. Its prototype is the following:
 
-	### int _printf(const char *format, ...) ###
+	 ** int _printf(const char *format, ...) **
 
 Where **format** contains the string that is printed. 
 
